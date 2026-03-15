@@ -1,6 +1,6 @@
 # creak
 <p align="center">
-  <img src="https://810fh1z8xm.ufs.sh/f/0EUYIx36G3RZgdOKozhIyUawYhWptGbcvsC20BPNEq3lj6A8" width="300"/>
+  <img src="./assets/logo.png" width="300"/>
 </p>
 
 Fast cursor-level voice dictation for Wayland/Hyprland.
